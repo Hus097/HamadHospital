@@ -5,5 +5,7 @@
  @font-face {
     font-family: Qatar;
     src: url("../../src/fonts/alfont_com_qatar-regular.ttf");
+    font-family: QatarNumbers;
+    src: url("../../src/fonts/Qatar2022Arabic-Bold.ttf");
   }
 }
