@@ -13,6 +13,7 @@ module.exports = {
     },
     fontFamily:{
       'body':['Qatar'],
+      'num':['Qatarnumbers'],
       
     },
     extend: {},
